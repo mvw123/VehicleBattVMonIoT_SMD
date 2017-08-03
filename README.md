@@ -9,13 +9,13 @@ Designed using Eagle cad 7.5.0 light.
 
 Incorporates support for:- 
 * Arduino Pro Mini, 3.3V, 8MHz version only. (5V version will damage circuit)
-* RFM95/RFM69HCW module
+* RFM69HCW or RFM95W/96W/97W/98W module
 * SMA 50 ohm antenna connector
-* 16 bit ADC module TI 1115
-* SHT31 temperature/humidity sensor module
-* RGB LED to visually indicate voltage levels
+* 16 bit ADC module TI ADS1115
+* Sensirion SHT31 temperature/humidity sensor module
 * DC-DC converter
 * Fuse and reverse voltage protection
+* [Optional] RGB LED to visually indicate voltage levels
 * [Optional] EUI-64 LoRA node identity chip for debug
 * [Optional] Winbond flash storage
 * [Optional] OLED display interface for debug purposes
