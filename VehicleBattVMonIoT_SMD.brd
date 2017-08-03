@@ -2692,7 +2692,7 @@ Please make sure your boards conform to these design rules.</description>
 <element name="U4" library="SparkFun-DigitalIC" package="SO08" value="SPI_FLASH-X25XXSMD" x="27.5082" y="37.846" rot="R270"/>
 <element name="M1" library="diy-modules" package="ARDUINO-PRO-MINI#APC" value="ARDUINO-PRO-MINI-3.3V#APC" x="28.702" y="28.8036" rot="MR90"/>
 <element name="C12" library="rcl" package="C0805" value="1u, 0805, 25v" x="26.2128" y="31.5214" smashed="yes" rot="R180">
-<attribute name="NAME" x="29.0322" y="31.7246" size="1.27" layer="25"/>
+<attribute name="NAME" x="28.1432" y="30.5816" size="1.016" layer="25"/>
 <attribute name="VALUE" x="27.4828" y="34.0614" size="1.27" layer="27" rot="R180"/>
 </element>
 <element name="IC3" library="SparkFun-PowerIC" package="SOT223" value="" x="31.0896" y="5.4864" smashed="yes" rot="R180">
@@ -2710,11 +2710,13 @@ Please make sure your boards conform to these design rules.</description>
 <element name="TP4" library="TP_1MM_TH" package="TP_1MM_TH" value="TP_1MM_TH&quot;" x="33.782" y="32.258" smashed="yes">
 <attribute name="NAME" x="32.004" y="34.036" size="1.27" layer="21"/>
 </element>
-<element name="IC1" library="microchip" package="SOT23-5L" value="24AA02E64" x="30.226" y="28.194">
+<element name="IC1" library="microchip" package="SOT23-5L" value="24AA02E64" x="30.226" y="28.194" smashed="yes">
 <attribute name="MPN" value="24AA00T-I/OTG" x="30.226" y="28.194" size="1.778" layer="27" display="off"/>
 <attribute name="OC_FARNELL" value="1331264" x="30.226" y="28.194" size="1.778" layer="27" display="off"/>
 <attribute name="OC_NEWARK" value="89H3038" x="30.226" y="28.194" size="1.778" layer="27" display="off"/>
 <attribute name="MF" value="MICROCHIP" x="30.226" y="28.194" size="1.778" layer="27" display="off"/>
+<attribute name="NAME" x="28.956" y="23.622" size="1.27" layer="25"/>
+<attribute name="VALUE" x="28.321" y="24.765" size="1.27" layer="27"/>
 </element>
 <element name="TP5" library="TP_1MM_TH" package="TP_1MM_TH" value="TP_1MM_TH&quot;" x="57.912" y="36.957" smashed="yes">
 <attribute name="NAME" x="57.15" y="38.862" size="1.27" layer="22" rot="MR90"/>

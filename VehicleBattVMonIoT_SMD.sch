@@ -9752,11 +9752,11 @@ ARE DONT CARE</text>
 <instance part="SUPPLY14" gate="GND" x="68.58" y="22.86"/>
 <instance part="JP2" gate="A" x="33.02" y="33.02" rot="MR0"/>
 <instance part="C7" gate="G$1" x="271.78" y="-10.16"/>
-<instance part="C9" gate="G$1" x="71.12" y="-50.8"/>
+<instance part="C9" gate="G$1" x="22.86" y="-48.26"/>
 <instance part="+3V12" gate="G$1" x="271.78" y="0"/>
 <instance part="SUPPLY15" gate="GND" x="271.78" y="-20.32"/>
-<instance part="+3V13" gate="G$1" x="71.12" y="-40.64"/>
-<instance part="SUPPLY16" gate="GND" x="71.12" y="-63.5"/>
+<instance part="+3V13" gate="G$1" x="22.86" y="-38.1"/>
+<instance part="SUPPLY16" gate="GND" x="22.86" y="-60.96"/>
 <instance part="H2" gate="G$1" x="-33.02" y="71.12"/>
 <instance part="H3" gate="G$1" x="-33.02" y="63.5"/>
 <instance part="H4" gate="G$1" x="-33.02" y="55.88"/>
@@ -9941,7 +9941,7 @@ ARE DONT CARE</text>
 <segment>
 <pinref part="C9" gate="G$1" pin="2"/>
 <pinref part="SUPPLY16" gate="GND" pin="GND"/>
-<wire x1="71.12" y1="-60.96" x2="71.12" y2="-55.88" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-58.42" x2="22.86" y2="-53.34" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="R4" gate="G$1" pin="1"/>
@@ -10434,7 +10434,7 @@ ARE DONT CARE</text>
 <segment>
 <pinref part="C9" gate="G$1" pin="1"/>
 <pinref part="+3V13" gate="G$1" pin="+3V3"/>
-<wire x1="71.12" y1="-43.18" x2="71.12" y2="-48.26" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="-40.64" x2="22.86" y2="-45.72" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="+3V14" gate="G$1" pin="+3V3"/>
