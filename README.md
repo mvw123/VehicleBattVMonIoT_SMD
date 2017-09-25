@@ -21,13 +21,17 @@ Incorporates support for:-
 * [Optional] OLED display interface for debug purposes
 * [Optional] HM-10 Bluetooth LE module carrier footprint
 
+CAD B - [WIP]
+=============
 
-CAD A - [PCB ordered] [WIP]
+Not released yet, needs CAD updates. 
+
+CAD A - [FAULTY]
 ===========================
 
-Work in progress. 
+Board has CAD issues, see issues list. needed some wiring and re-work. 
 Board released for manufacture 3 Aug 2017
-Software not yet written.
+Software partially written
 
 MVW
 www.guvvy.co.uk
